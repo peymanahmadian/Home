@@ -1,0 +1,97 @@
+@import "../Fonts/fonts";
+$shabnam:'shabnam';
+body{
+  margin:0;
+  padding: 0;
+  background: url("./BK.jpg");
+  background-size:80px;
+  input,textarea{
+    font-family: $shabnam !important;
+    text-align: justify !important;
+  }
+  ::placeholder {
+    font-family: $shabnam !important;
+  }
+  h1,h2,h3,h4,h5,h6,div,td,th,ul,li{
+    font-family: $shabnam !important;
+    text-align: right;
+  }
+  .MuiTableCell-alignLeft{
+    text-align: right;
+  }
+  .MuiTableCell-alignRight{
+    flex-direction: row;
+  }
+  span.MuiTypography-root.MuiListItemText-primary{
+    font-family: $shabnam;
+  }
+  .MuiTypography-caption{
+    font-family: $shabnam;
+  }
+  .col_item{
+    box-sizing: border-box;
+    padding: 8px;
+  }
+  .MuiInputLabel-outlined{
+    font-family: $shabnam;
+  }
+}
+body *{
+  font-family: $shabnam;
+
+}
+.fullWidth{
+  width: 100%;
+}
+#alert-dialog-description{
+  font-family: $shabnam;
+}
+//Overide react materiall
+.MuiGrid-root{
+  .MuiAppBar-colorPrimary{
+    background-color: #006080;
+  }
+}
+.MuiFormHelperText-root.MuiFormHelperText-contained{
+  margin-top: 8px;
+  margin-bottom: 8px;
+}
+.MuiPaper-root.MuiDrawer-paperAnchorRight{
+  background-color: #006080;
+  width: 400px;
+  a{
+    text-decoration: none;
+    color:white;
+  }
+}
+//Login
+.login-container{
+  box-shadow: 0 0 5px #393939;
+  padding: 25px;
+  .header{
+    padding: 6px 0;
+  }
+  max-width: 400px;
+  margin:100px auto;
+}
+.MuiFormHelperText-root.MuiFormHelperText-contained{
+  font-family: $shabnam;
+}
+.header_input{
+  padding: 15px;
+  background-color: #b4e0f1;
+  display: flex;
+  >div{
+    margin-left: 4px;
+    border: 1px solid gray;
+    padding: 5px;
+    border-radius: 4px;
+  }
+}
+.MuiFormLabel-root.MuiInputLabel-root.MuiInputLabel-formControl.MuiInputLabel-animated{
+  font-family: $shabnam !important;
+}
+//modal
+div.tether-element.tether-out-of-bounds.tether-out-of-bounds-top.tether-element-attached-bottom.tether-element-attached-center.tether-target-attached-top.tether-target-attached-center.tether-enabled{
+  z-index:999999999999999999999999999;
+}
