@@ -102,13 +102,14 @@ export const Users={
 
 }
 export const Advertisement={
-    get:'http://pg.sandboxdevelop.ir/AdvControl/api/AdvController/GetAdvs',
+    get:'http://pg.sandboxdevelop.ir/adv/api/Reporting/GetAllAdvertisements',
     post:'http://pg.sandboxdevelop.ir/AdvControl/api/AdvController/AddAdv',
     put:'http://pg.sandboxdevelop.ir/AdvControl/api/AdvController/EditAdv',
     delete:'http://pg.sandboxdevelop.ir/AdvControl/api/AdvController/DeleteAdv',
     getProperties:'http://pg.sandboxdevelop.ir/adv/api/CategoryLevelThree/GetPropertyCategoryLevelThreeById',
     extend:'http://pg.sandboxdevelop.ir/AdvControl/api/AdvController/ExtendedAdv',
     confirm:'http://pg.sandboxdevelop.ir/AdvControl/api/AdvController/ConfirmAdv',
+    getPack:'http://pg.sandboxdevelop.ir/adv/api/Period/GetPeriodsWithCategoryLevelOneId'
 
 }
 export const Report={

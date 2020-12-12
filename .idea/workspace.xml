@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f6efc4c0-2a4f-4273-b6a6-18e598e48ee2" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Model/Urls.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Model/Urls.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Styles/Layout.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/Styles/Layout.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/View/Advertisement/Index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/View/Advertisement/Index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/View/Advertisement/addAdvertisement.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/View/Advertisement/addAdvertisement.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/View/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/View/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/View/Command/Alert.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/View/Command/Alert.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/View/Commercial/Price.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/View/Commercial/Price.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/View/Dashboard.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/View/Dashboard.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/View/Discount/DiscountModal.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/View/Discount/DiscountModal.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/View/Discount/Index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/View/Discount/Index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/View/Home.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/View/Home.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/View/Layout.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/View/Layout.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/View/LevelThree/Index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/View/LevelThree/Index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/View/LevelTwo/Index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/View/LevelTwo/Index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/View/Navbar.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/View/Navbar.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/View/Report/Index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/View/Report/Index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/View/Users/searchUser.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/View/Users/searchUser.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1kt4d475SqytxMdnejxXsVSdcqo" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="settings.editor.selected.configurable" value="watcher.settings" />
+  </component>
+  <component name="RunManager">
+    <configuration name="start" type="js.build_tools.npm" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="start" />
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f6efc4c0-2a4f-4273-b6a6-18e598e48ee2" name="Default Changelist" comment="" />
+      <created>1606506637402</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606506637402</updated>
+      <workItem from="1606506642367" duration="34000" />
+      <workItem from="1606506679775" duration="28000" />
+      <workItem from="1606506708619" duration="740000" />
+      <workItem from="1606539958501" duration="140000" />
+      <workItem from="1606595218882" duration="11965000" />
+      <workItem from="1606631540836" duration="14000" />
+      <workItem from="1607030699308" duration="17829000" />
+      <workItem from="1607096633544" duration="8141000" />
+      <workItem from="1607147221423" duration="23000" />
+      <workItem from="1607701833768" duration="24090000" />
+      <workItem from="1607790414641" duration="17838000" />
+      <workItem from="1607813154200" duration="344000" />
+      <workItem from="1607813518411" duration="14000" />
+      <workItem from="1607813541959" duration="2502000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="218" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1606506968106">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="218" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1606506968106" />
+    <state x="437" y="3" key="#start" timestamp="1606506897657">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="437" y="3" key="#start/0.0.1536.824@0.0.1536.824" timestamp="1606506897657" />
+    <state x="377" y="134" key="EditFileWatcherDialog" timestamp="1607813789873">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="377" y="134" key="EditFileWatcherDialog/0.0.1536.824@0.0.1536.824" timestamp="1607813789873" />
+    <state x="495" y="107" key="FileChooserDialogImpl" timestamp="1607813529732">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="495" y="107" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1607813529732" />
+    <state width="1507" height="195" key="GridCell.Tab.0.bottom" timestamp="1607816593227">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1507" height="195" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1607816593227" />
+    <state width="1507" height="195" key="GridCell.Tab.0.center" timestamp="1607816593227">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1507" height="195" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1607816593227" />
+    <state width="1507" height="195" key="GridCell.Tab.0.left" timestamp="1607816593227">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1507" height="195" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1607816593227" />
+    <state width="1507" height="195" key="GridCell.Tab.0.right" timestamp="1607816593227">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1507" height="195" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1607816593227" />
+    <state x="159" y="0" key="SettingsEditor" timestamp="1607813791654">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="159" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1607813791654" />
+    <state x="523" y="14" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1607031839703">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="523" y="14" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1536.824@0.0.1536.824" timestamp="1607031839703" />
+    <state x="542" y="305" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1607032545834">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="542" y="305" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1607032545834" />
+    <state x="411" y="70" width="714" height="684" key="find.popup" timestamp="1607808781287">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="411" y="70" width="714" height="684" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1607808781287" />
+    <state x="341" y="183" key="run.anything.popup" timestamp="1607792388080">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="341" y="183" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1607792388080" />
+    <state x="347" y="-1" width="840" height="1034" key="search.everywhere.popup" timestamp="1607108014884">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="347" y="-1" width="840" height="1034" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1607108014884" />
+  </component>
+</project>

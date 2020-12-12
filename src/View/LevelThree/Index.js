@@ -7,7 +7,6 @@ import Table from '../Command/Table';
 import RTL from '../RTL';
 import {showError} from '../../Actions/ErrorActions';
 import Loading from "../Command/Loading";
-import Alert from "@material-ui/lab/Alert";
 const Index=()=>{
     const dispatch=useDispatch();
     const [levelOne,setLevelOne]=useState([]);
