@@ -147,9 +147,9 @@ const AddAdvertisement = (props) => {
           (item) => item.propertyId === selectLevelThreePro
         );
         setTypeInput(typeNumber);
-        if (typeNumber.propertiesOption.length) {
-          //setOptionInput(typeNumber.propertiesOption[0].id)
-        }
+        // if (typeNumber.propertiesOption.length) {
+        //   //setOptionInput(typeNumber.propertiesOption[0].id)
+        // }
       }
     }
   }, [selectLevelThreePro, levelThreeProperties]);
@@ -293,7 +293,7 @@ const AddAdvertisement = (props) => {
       images: files,
       Properties: properties,
       Name: name,
-      CategoryLevelThreeId: parseInt(selectLevelThreePro),
+      CategoryLevelThreeId: parseInt(selectedThree),
       CityId: parseInt(citySelect),
       NeighborhoodId: parseInt(subCitySelect),
       Description: desc,
@@ -541,24 +541,36 @@ const AddAdvertisement = (props) => {
                             <div style={{ display: "flex" }}>
                               <TextField
                                 value={fromInput}
-                                onChange={(e) => setFromInput(e.target.value)}
+                                onChange={(e) => {
+                                  setFromInput(e.target.value);
+                                  handleInput(PropertyType.Range, [
+                                    e.target.value,
+                                    toInput,
+                                  ]);
+                                }}
                               />
                               <TextField
                                 value={toInput}
-                                onChange={(e) => setToInput(e.target.value)}
-                              />
-                              <Button
-                                variant="contained"
-                                color="primary"
-                                onClick={() =>
+                                onChange={(e) => {
+                                  setToInput(e.target.value);
                                   handleInput(PropertyType.Range, [
                                     fromInput,
-                                    toInput,
-                                  ])
-                                }
-                              >
-                                اعمال
-                              </Button>
+                                    e.target.value,
+                                  ]);
+                                }}
+                              />
+                              {/*<Button*/}
+                              {/*  variant="contained"*/}
+                              {/*  color="primary"*/}
+                              {/*  onClick={() =>*/}
+                              {/*    handleInput(PropertyType.Range, [*/}
+                              {/*      fromInput,*/}
+                              {/*      toInput,*/}
+                              {/*    ])*/}
+                              {/*  }*/}
+                              {/*>*/}
+                              {/*  اعمال*/}
+                              {/*</Button>*/}
                             </div>
                           )}
                           {typeInput.type === PropertyType.Text && (

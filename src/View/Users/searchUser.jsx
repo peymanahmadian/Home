@@ -51,7 +51,7 @@ const SearchUser=(props)=>{
     const searchUser=()=>{
         if((fromDate && toDate) || search){
             setList([]);
-            let searchParam=`http://pg.sandboxdevelop.ir/Idp/api/User/GetUsers?`;
+            let searchParam=`http://pg.sandboxdevelop.ir/adv/api/Reporting/SearchUsers?`;
             let filter="";
             if(phoneNumber) {
                 filter = `fromDate=${moment(fromDate).format("YYYY-MM-DD")}&toDate=${moment(toDate).format("YYYY-MM-DD")}&phoneNumber=${phoneNumber}`;
